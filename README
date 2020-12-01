@@ -1,1 +1,5 @@
-This repo contains code Im writing to practice for software interviews
+This repo contains code Im writing to practice for software interviews! :)
+
+to run test for fib: jest fib/test.js --watch
+
+to debug -> node inspect index.js inside the right folder
